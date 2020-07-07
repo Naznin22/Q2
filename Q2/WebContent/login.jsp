@@ -12,7 +12,6 @@
 			<input type="text" name="email" placeholder="Email" required><br>
 			<input type="password" name="password" placeholder = "password" required><br>
 			<input type="submit" value="Login">
-			${errorMessage}
 		</form>
 	</div>
 
